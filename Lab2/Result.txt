@@ -1,11 +1,11 @@
 
 .:
-итого 4
-drw-rw-r--. 2 Maxim Maxim 22 ноя 18 16:23 dir
--rw-r-----. 1 root  Maxim  5 ноя 18 16:19 file
--rw-------. 1 Maxim Maxim  0 ноя 18 16:32 file1
--rw-rw-rw-. 1 Maxim Maxim  0 ноя 18 16:33 file2
+РёС‚РѕРіРѕ 4
+drw-rw-r--. 2 Maxim Maxim 22 РЅРѕСЏ 18 16:23 dir
+-rw-r-----. 1 root  Maxim  5 РЅРѕСЏ 18 16:19 file
+-rw-------. 1 Maxim Maxim  0 РЅРѕСЏ 18 16:32 file1
+-rw-rw-rw-. 1 Maxim Maxim  0 РЅРѕСЏ 18 16:33 file2
 
 ./dir:
-итого 0
+РёС‚РѕРіРѕ 0
 -????????? ? ? ? ?            ? new_file
